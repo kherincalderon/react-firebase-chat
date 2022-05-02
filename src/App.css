@@ -155,10 +155,12 @@ h1 {
   color: #E9EDEF;
   background: #005C4B;
   align-self: flex-end;
+  text-align: left;
 }
 .received p {
   background: #202C33;
   color: #E9EDEF;
+  text-align: left;
 }
 
 img {
